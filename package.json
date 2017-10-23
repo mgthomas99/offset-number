@@ -1,0 +1,34 @@
+{
+  "name": "entropize",
+  "version": "1.0.0",
+  "description": "Apply entropy to numeric JavaScript values",
+  "main": "dist/commonjs/index.js",
+  "scripts": {
+    "build": "gulp build",
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgthomas99/x-entropy.git"
+  },
+  "keywords": [
+    "entropy",
+    "math",
+    "number",
+    "numeric",
+    "random"
+  ],
+  "author": "George Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgthomas99/x-entropy/issues"
+  },
+  "homepage": "https://github.com/mgthomas99/x-entropy#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "mocha": "^4.0.1",
+    "typescript": "^2.5.3"
+  }
+}
