@@ -30,6 +30,15 @@ Apply an offset to a JavaScript numeric value.
 Both the above commands perform the same operation internally; the NPM `build`
 script calls the `Gulp` build script.
 
+## Test
+
+```shell
+    npm run test # Runs an NPM script which tests the project
+```
+
+Due to the project being written in TypeScript and the tests written in
+Javascript, the project must be built before it can be tested.
+
 ## License
 
 See the `LICENSE` file for license information.
