@@ -1,7 +1,7 @@
 {
-  "name": "entropize",
+  "name": "offset-number",
   "version": "1.0.0",
-  "description": "Apply entropy to numeric JavaScript values",
+  "description": "Apply an offset to numeric JavaScript values",
   "main": "dist/commonjs/index.js",
   "scripts": {
     "build": "gulp build",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mgthomas99/x-entropy.git"
+    "url": "git+https://github.com/mgthomas99/offset-number.git"
   },
   "keywords": [
     "entropy",
@@ -22,9 +22,9 @@
   "author": "George Thomas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mgthomas99/x-entropy/issues"
+    "url": "https://github.com/mgthomas99/offset-number/issues"
   },
-  "homepage": "https://github.com/mgthomas99/x-entropy#readme",
+  "homepage": "https://github.com/mgthomas99/offset-number#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "gulp": "^3.9.1",

@@ -1,2 +1,3 @@
-# entropize
-Apply entropy to JavaScript numeric values
+# offset-number
+
+Apply an offset to a JavaScript numeric value.
