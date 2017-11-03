@@ -2,4 +2,6 @@ src/
 *.log
 .editorconfig
 .gitignore
+.npmrc
+gulpfile.ks
 tsconfig.json
