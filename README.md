@@ -16,7 +16,7 @@ Apply an offset to a JavaScript numeric value.
 ```javascript
     var offset = require("offset-number");
 
-    offset(42, 1) // -> A random number in the range [40,44).
+    offset(42, 2) // -> A random number in the range [40,44).
     offset(5, 10) // -> A random number in the range [-5,15).
 ```
 
